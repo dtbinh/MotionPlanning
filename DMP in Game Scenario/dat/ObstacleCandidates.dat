@@ -1,0 +1,108 @@
+#Number of Obstacle
+3
+#Obstacle #0
+#Type
+SHORT_WALL
+#Number of Polygons
+10
+#Polygon #0
+#Number of Vertices
+3
+#------------
+2.5 -2.5
+7.5 -2.5
+-7.5 2.5
+#Polygon #1
+#Number of Vertices
+3
+#------------
+-2.5 -2.5
+2.5 -2.5
+-7.5 2.5
+#Polygon #2
+#Number of Vertices
+3
+#------------
+-7.5 -2.5
+-2.5 -2.5
+-7.5 2.5
+#Polygon #3
+#Number of Vertices
+3
+#------------
+-2.5 -2.5
+2.5 -7.5
+2.5 -2.5
+#Polygon #4
+#Number of Vertices
+3
+#------------
+-2.5 2.5
+-7.5 2.5
+7.5 -2.5
+#Polygon #5
+#Number of Vertices
+3
+#------------
+2.5 2.5
+-2.5 2.5
+7.5 -2.5
+#Polygon #6
+#Number of Vertices
+3
+#------------
+7.5 2.5
+2.5 2.5
+7.5 -2.5
+#Polygon #7
+#Number of Vertices
+3
+#------------
+2.5 2.5
+-2.5 7.5
+-2.5 2.5
+#Polygon #8
+#Number of Vertices
+3
+#------------
+2.5 2.5
+2.5 7.5
+-2.5 7.5
+#Polygon #9
+#Number of Vertices
+3
+#------------
+-2.5 -2.5
+-2.5 -7.5
+2.5 -7.5
+#Initial Configuration
+20.121363 85.823074 0
+#Obstacle #1
+#Type
+HIGH_WALL
+#Number of Polygons
+1
+#Polygon #0
+#Number of Vertices
+3
+#------------
+0.0 5.0
+-6.250001 -5.0
+6.25 -5.0
+#Initial Configuration
+19.720516 66.414536 0
+#Obstacle #2
+#Type
+HIGH_WALL
+#Number of Polygons
+1
+#Polygon #0
+#Number of Vertices
+4
+#------------
+-7.500001 3.75
+-7.500001 -3.75
+7.5 -3.75
+7.5 3.75
+#Initial Configuration
+19.501713 49.256836 0
